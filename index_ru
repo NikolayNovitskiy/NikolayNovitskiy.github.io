@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Николай Новицкий</title>
+  
+  <div class="language-switcher">
+  <a href="index.html">EN</a> | 
+  <a href="index_ru.html">RU</a> | 
+  <a href="index_de.html">DE</a>
+  </div>
+
+     
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KF50HSYELZ"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-KF50HSYELZ');
+</script>
+  
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+   main {
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 1fr 1fr; /* two equal columns */
+      gap: 40px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h1, h2 {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #eee;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="photo-row">
+    <img src="images/WebsitePhoto.png" alt="Profile photo 2">
+    <img src="images/image0 (1).jpeg" alt="Profile photo 1">
+    <img src="images/263dda89-3441-4abd-8d1d-8ba885d15b81.JPG" alt="Profile photo 3">
+  </div>    
+    <h1>Николай Новицкий </h1>
+    <p><a href=https://brain.cuhk.edu.hk/people.html#current" target="_blank" style="color:white;"> научный сотрудник, Китайский Университет Гонконга </p>
+    <p><a href="http://hdl.handle.net/10138/19738" target="_blank" style="color:white;">PhD</a></p>
+  </header>
+
+  <main>
+
+<!-- Left column -->
+    <div>
+      <section>
+        <h2>Кто я</h2>
+        <p>
+        Я научный сотрудник в Китайском Университете Гонконга. 
+        Моя работа связана с нейронауками и анализом данных. Мне нравится междисциплинарные исследования и академические контакты.
+        </p>
+      </section>
+      <section>
+        <h2><a href="CURRICULUM+VITAE_Novitskiy_2026_4.pdf" target="_blank">CV</a></h2>
+        <p> </p>          
+       </section>
+      
+      <section>
+        <h2>Научные интересы</h2>
+        <p>Нейролингвистика; Обработка сигналов и анализ данных</p>                 
+      </section>
+      
+      <section>
+        <h2><a href="publications.html" target="_blank">Публикации</a></h2>
+        <p> </p>          
+       </section>
+      
+        <section>
+        <h2><a href="https://nikolaynovitskiy.github.io/.github.io-NovitskiWebsite2006" target="_blank">Где я был 20 лет назад </a></h2>
+        <p> </p>          
+       </section>
+    </div>
+
+    <!-- Right column -->
+    <div>
+      <section>
+        <h2>Откуда я</h2>
+        <p>
+          Моя родина - <a href="images/132c95d10cb45c31eeaea4dfc0c1837a.jpg" target="_blank"> <strong> Советский Союз </strong> </a>, ради научной карьры я путешествовал по 
+          разным странам и научным институтам и продолжаю развивать международные контакты. Взгляните на  
+          <a href="images/MyMapAnimated.gif" target="_blank">мой путь</a>. </p>
+        </section>
+      
+    <section>
+        <h2>Контакты</h2>
+        <p>Email: <a href="mailto:nnovitskiy@cuhk.edu.hk">nnovitskiy@cuhk.edu.hk</a></p>
+        <p>GitHub: <a href="https://github.com/NikolayNovitskiy">github.com/NikolayNovitskiy</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/nikolay-novitskiy-8a22275/">nikolay-novitskiy-8a22275</a></p>
+    </section>
+    </div>
+    </main>
+ 
+  <footer>
+    &copy; 2026 Николай Новицкий
+  </footer>
+</body>
+</html>
